@@ -3,7 +3,7 @@
 
 
 
-
+- 💻 Desenvolvedor Back-End
 - 🔭 Atualmente trabalhando com UX/UI Design
 - 🌱 Estudando Front-End
 
